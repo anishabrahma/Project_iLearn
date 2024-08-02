@@ -1,0 +1,14 @@
+.login-container {
+  background-image: url('https://www.graphicpanic.com/images/blue-gradient-background.jpg'); /* Replace with the path to your gradient image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 400px;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
